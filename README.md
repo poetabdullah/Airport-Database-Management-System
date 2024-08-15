@@ -3,32 +3,6 @@
 ## Overview
 This project involves the design and implementation of a comprehensive Airport Management System using Microsoft SQL Server Management Studio (SSMS) for the database, Django for the backend, and Visual Studio Code for frontend development. The system manages various aspects of airport operations, including passenger information, flight schedules, baggage tracking, security protocols, and more.
 
-## Table of Contents
-1. [Choosing the Topic](#choosing-the-topic)
-2. [Choosing DB Software](#choosing-db-software)
-3. [Choosing the Backend Integration Model](#choosing-the-backend-integration-model)
-4. [Entities and Relationships](#entities-and-relationships)
-   - 4.1 [Building Relations](#building-relations)
-   - 4.2 [Entity Relationship Diagram](#entity-relationship-diagram)
-   - 4.3 [Relational Schema Diagram](#relational-schema-diagram)
-   - 4.4 [Normalization](#normalization)
-5. [Authorization](#authorization)
-   - 5.1 [User Login, Roles, Privileges, and Authorization](#user-login-roles-privileges-and-authorization)
-6. [Tables](#tables)
-7. [Backup & Recovery](#backup-and-recovery)
-   - 7.1 [Backup and Recovery Strategy](#backup-and-recovery-strategy)
-   - 7.2 [Backup Process](#backup-process)
-   - 7.3 [Recovery Process](#recovery-process)
-8. [Views & Joins](#views-and-joins)
-9. [Stored Procedures](#stored-procedures)
-10. [Triggers](#triggers)
-11. [Indexing](#indexing)
-12. [Objectives](#objectives)
-13. [Scope of the Database](#scope-of-the-database)
-14. [Key Functionalities](#key-functionalities)
-15. [Key Interests](#key-interests)
-16. [Performance & Verification of Database](#performance-and-verification-of-database)
-
 ## 1. Choosing the Topic
 The team considered multiple topics, including CRM, E-Commerce, HR, and others. After discussions, the **Airport Management System** was selected due to its complexity, widespread use, and the learning opportunities it presents.
 
