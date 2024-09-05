@@ -1,4 +1,4 @@
-# Airport Management System Database
+# Airport Database Management System
 
 ## Overview
 This project involves the design and implementation of a comprehensive Airport Management System using Microsoft SQL Server Management Studio (SSMS) for the database, Django for the backend, and Visual Studio Code for frontend development. The system manages various aspects of airport operations, including passenger information, flight schedules, baggage tracking, security protocols, and more.
